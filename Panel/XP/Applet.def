@@ -1,0 +1,2 @@
+LIBRARY	"TypesApplet"
+EXPORTS CPlApplet

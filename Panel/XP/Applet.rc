@@ -1,0 +1,7 @@
+1 ICON "Applet.ico"
+
+STRINGTABLE
+{
+	1, "Types"
+	2, "Manage file types"
+}

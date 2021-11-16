@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<applications xmlns="http://schemas.microsoft.com/windows/cpltasks/v1" xmlns:sh="http://schemas.microsoft.com/windows/tasks/v1">
+	
+	<application id="{76402ED7-C2D7-4FD7-A4A5-BD52204550B8}">
+		
+		<sh:task id="{D0C02070-8CB8-4547-94AE-C0C784AFEB62}">
+			<sh:name>PanelDescription</sh:name>
+			<sh:keywords>extensions;associations;types;classes;icons;context;menu;explorer;PanelKeywords</sh:keywords>
+			<sh:command>{path}</sh:command>
+		</sh:task>
+		
+		<category id="1"><sh:task idref="{D0C02070-8CB8-4547-94AE-C0C784AFEB62}"/></category>
+		<category id="5"><sh:task idref="{D0C02070-8CB8-4547-94AE-C0C784AFEB62}"/></category>
+		
+	</application>
+	
+</applications>

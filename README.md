@@ -6,6 +6,7 @@ The original app's development seems to be rather dead, this is an attempt to, i
 An attempt is currently being made to port development to Visual Studio 2022, e.t.a is nonexistant ;)
 
 # Planned features
+- Move to WPF instead of Windows Forms 
 - A dark theme (obviously 😄)
 - Easier localization management
 - Auto-updates
